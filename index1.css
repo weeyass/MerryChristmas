@@ -80,8 +80,8 @@ body, html {
 }
 
 .pimg13{
-    background-image: url('/images/wesbg.png');
-    min-height: 750px;
+    background-image: url('./images/wesbg.png');
+    min-height: 800px;
 }
 
 .section {
