@@ -71,7 +71,7 @@ section .box .circle a
     position: absolute;
     z-index: 2;
     font-size: 4em;
-    color: #ff2a2a;
+    color: #fe7bb0;
     text-align: center;
     text-decoration: none;
 }
@@ -79,7 +79,7 @@ section .box .circle a
 section i
 {
     position: absolute;
-    background: #ff2a2a;
+    background: #fe7bb0;
     border-radius: 100%;
     animation: animate linear infinite;
 }
@@ -87,7 +87,7 @@ section i
 section i:nth-child(even)
 {
     background: transaprent;
-    border: 1px solid #ff2a2a;
+    border: 1px solid #fe7bb0;
 }
 
 @keyframes animate
